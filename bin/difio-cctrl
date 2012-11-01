@@ -1,5 +1,5 @@
 #!/usr/bin/env ruby
 
-require "difio-cctrl-ruby"
+require "difio-cloudcontrol-ruby"
 
 Difio::cloudControl.new.cli
