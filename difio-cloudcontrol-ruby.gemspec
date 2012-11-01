@@ -4,7 +4,7 @@ require "difio-cloudcontrol-ruby/version"
 
 Gem::Specification.new do |s|
   s.name        = "difio-cloudcontrol-ruby"
-  s.version     = Difio::cloudControl::VERSION
+  s.version     = Difio::CloudControl::VERSION
   s.authors     = ["Alexander Todorov"]
   s.email       = ["atodorov@dif.io"]
   s.homepage    = "https://github.com/difio/difio-cloudcontrol-ruby"
