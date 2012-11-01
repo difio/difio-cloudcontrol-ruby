@@ -2,7 +2,7 @@ require "common-ruby-difio"
 require "json"
 
 module Difio
-    class cloudControl < Difio::DifioBase
+    class CloudControl < Difio::DifioBase
         json = File.read('/srv/creds/creds.json')
         creds = JSON.parse(json)
 
