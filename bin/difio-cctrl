@@ -2,4 +2,4 @@
 
 require "difio-cloudcontrol-ruby"
 
-Difio::cloudControl.new.cli
+Difio::CloudControl.new.cli
